@@ -16,6 +16,14 @@
 
 ---
 
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vincentchyu/vincentchyu/main/profile-3d-contrib/profile-night-rainbow.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vincentchyu/vincentchyu/main/profile-3d-contrib/profile-season.svg">
+<img alt="github contribution graph" src="https://raw.githubusercontent.com/vincentchyu/vincentchyu/main/profile-3d-contrib/profile-season.svg">
+</picture>
+</div>
+
 # About Me
 
 ```swift
@@ -33,7 +41,3 @@ struct Developer {
     ]
 }
 ```
-
-<div align="center">
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" />
-</div>
